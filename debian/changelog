@@ -1,0 +1,5 @@
+libcouchdb-client-perl (0.10) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Calle Dybedahl <calle@>  Tue, 24 Apr 2012 14:31:39 +0200
